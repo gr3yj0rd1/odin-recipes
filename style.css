@@ -1,0 +1,19 @@
+.header {
+    font-family: 'Arial', sans-serif;
+    font-size: 2.5rem;
+    color: #333;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.image {
+    text-align: center;
+}
+
+.image img {
+    width: 100%; /* L'immagine si adatta alla larghezza del contenitore */
+    height: auto; /* Mantiene le proporzioni dell'immagine */
+    display: block; /* Rimuove eventuali spazi indesiderati sotto l'immagine */
+    margin: 0; /* Elimina margini extra */
+    padding: 0; /* Elimina padding extra */
+}
