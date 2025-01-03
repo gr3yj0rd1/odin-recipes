@@ -1,0 +1,17 @@
+{
+  "name": "auto_changelog",
+  "version": "1.2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gr3yj0rd1/auto_changelog.git"
+  },
+  "author": "Jacopo Falcone <127383002+gr3yj0rd1@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
