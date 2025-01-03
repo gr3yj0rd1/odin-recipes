@@ -11,9 +11,9 @@
 }
 
 .image img {
-    width: 100%; /* L'immagine si adatta alla larghezza del contenitore */
-    height: auto; /* Mantiene le proporzioni dell'immagine */
-    display: block; /* Rimuove eventuali spazi indesiderati sotto l'immagine */
-    margin: 0; /* Elimina margini extra */
-    padding: 0; /* Elimina padding extra */
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0;
+    padding: 0;
 }
