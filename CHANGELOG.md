@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.4.0...v1.2.1) (2025-01-04)
+
+
+### Bug Fixes
+
+* integrated proper tag for style coherence ([4307661](https://github.com/gr3yj0rd1/auto_changelog/commit/43076610da9451db5ed6346a96e9322c43473211))
+
 ## [1.4.0](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.3.0...v1.4.0) (2025-01-04)
 
 
