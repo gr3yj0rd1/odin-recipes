@@ -1,6 +1,6 @@
 html, body {
-    height: 100%; /* Assicurati che il body prenda tutta l'altezza della pagina */
-    margin: 0; /* Rimuove i margini predefiniti */
+    height: 100%;
+    margin: 0;
 }
 
 .header {
