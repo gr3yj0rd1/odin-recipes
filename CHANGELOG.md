@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.2](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.2.1...v1.2.2) (2025-01-05)
+
+
+### Bug Fixes
+
+* work on layout with boxes ([1a9f18a](https://github.com/gr3yj0rd1/auto_changelog/commit/1a9f18a1cf2aed6d3788a595343210fbc94a1be2))
+
 ### [1.2.1](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.4.0...v1.2.1) (2025-01-04)
 
 
