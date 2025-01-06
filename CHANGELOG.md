@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.2](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.5.1...v1.5.2) (2025-01-06)
+
+
+### Bug Fixes
+
+* add picture ([3126d35](https://github.com/gr3yj0rd1/auto_changelog/commit/3126d3596ceefa6f42ab57a41709593932b22446))
+
 ### [1.5.1](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.5.0...v1.5.1) (2025-01-06)
 
 ## [1.5.0](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.2.2...v1.5.0) (2025-01-06)
