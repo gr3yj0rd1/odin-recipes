@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.2.2...v1.3.0) (2025-01-06)
+
+
+### Features
+
+* edit layout to be coherent ([44258b9](https://github.com/gr3yj0rd1/auto_changelog/commit/44258b90a1a8032b1b6ac67d9b16923a6f462673))
+
 ### [1.2.2](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.2.1...v1.2.2) (2025-01-05)
 
 
