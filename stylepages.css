@@ -9,13 +9,13 @@ body {
 }
 
 header {
-    background-color: #f4a261;
+    background-color: #38239656;
     text-align: center;
     padding: 20px;
 }
 
 h1 {
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .content {
@@ -32,14 +32,21 @@ h1 {
 
 .box {
     width: 48%;
-    padding: 15px;
-    background-color: #e9c46a;
+    background-color: #ac99fd57;
     border-radius: 8px;
+    padding: 30px;
+}
+
+.kicker {
+    font-size: 40px;
 }
 
 img {
     width: 100%;
     border-radius: 8px;
+}
+.list {
+
 }
 
 .text {
@@ -51,7 +58,7 @@ h2, h3 {
 }
 
 footer {
-    background-color: #264653;
+    background-color: #030303;
     color: white;
     text-align: center;
     padding: 10px;
