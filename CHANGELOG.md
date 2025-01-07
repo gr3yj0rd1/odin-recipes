@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.3](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.5.2...v1.5.3) (2025-01-07)
+
+
+### Bug Fixes
+
+* improved global readability ([097c042](https://github.com/gr3yj0rd1/auto_changelog/commit/097c0420444a594b664506f5c40a39c4a1879b7f))
+
 ### [1.5.2](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.5.1...v1.5.2) (2025-01-06)
 
 
