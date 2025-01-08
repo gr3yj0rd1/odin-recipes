@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.5.3...v1.6.0) (2025-01-08)
+
+
+### Features
+
+* add home button for smoother navigation ([1af360d](https://github.com/gr3yj0rd1/auto_changelog/commit/1af360de31099dddfd3069496824b926fe83291f))
+
+
+### Bug Fixes
+
+* add relative link structure ([c3e9f62](https://github.com/gr3yj0rd1/auto_changelog/commit/c3e9f629fadc75dda6187aa8aa4df8f66153fc8e))
+
 ### [1.5.3](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.5.2...v1.5.3) (2025-01-07)
 
 
