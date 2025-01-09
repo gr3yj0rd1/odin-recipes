@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.6.0...v1.7.0) (2025-01-09)
+
+
+### Features
+
+* add colors to links to improve readability ([2730f53](https://github.com/gr3yj0rd1/auto_changelog/commit/2730f53c586fbe499029c39e9c5636412777160e))
+
 ## [1.6.0](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.5.3...v1.6.0) (2025-01-08)
 
 
