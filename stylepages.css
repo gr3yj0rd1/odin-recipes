@@ -68,4 +68,22 @@ footer {
     color: white;
     text-align: center;
     padding: 20px;
+    font-size: 24px;
 }
+
+a:link {
+    color: red;
+    }
+
+a:visited {
+    color: green;
+    }
+
+a:hover {
+    color: hotpink;
+    }
+
+a:active {
+    color: blue;
+    }
+    

@@ -63,4 +63,21 @@
       text-align: center;
       padding: 20px;
       margin-top: auto;
+      font-size: 24px;
+    }
+    
+    a:link {
+    color: red;
+    }
+
+    a:visited {
+    color: green;
+    }
+
+    a:hover {
+    color: hotpink;
+    }
+
+    a:active {
+    color: blue;
     }
